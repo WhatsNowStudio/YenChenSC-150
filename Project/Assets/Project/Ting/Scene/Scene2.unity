@@ -1443,7 +1443,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1878866874989016, guid: 40970cdca05fad54689c4fba84a01606, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1855608208284758, guid: 40970cdca05fad54689c4fba84a01606, type: 2}
       propertyPath: m_IsActive
@@ -2122,6 +2122,10 @@ Prefab:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8460c32d24f1f834785b59a76a2aae08, type: 2}
+    - target: {fileID: 1933362660023142, guid: 762505d82a5647646814d9a4508398e5, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 762505d82a5647646814d9a4508398e5, type: 2}
   m_IsPrefabAsset: 0
@@ -2604,7 +2608,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 500
+        value: 30000
       - useVariable: 1
         name: Int/JetOnce
         tooltip: 
