@@ -55,6 +55,8 @@ ModelImporter:
     100098: Object002
     100100: Object003
     100102: "\u6C34\u7BA1"
+    100104: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
+    100106: "\u9032\u6C23\u7BA1"
     400000: "150L\u6DB2\u5291\u6876_\u914D\u652A\u62CC\u99AC\u9054"
     400002: Line001
     400004: Line002
@@ -107,6 +109,8 @@ ModelImporter:
     400098: Object002
     400100: Object003
     400102: "\u6C34\u7BA1"
+    400104: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
+    400106: "\u9032\u6C23\u7BA1"
     2100000: MetalReflectionHigh
     2100002: Color368
     2100004: MetalReflectionLow
@@ -147,6 +151,8 @@ ModelImporter:
     2100074: 'Color #050505ff'
     2100076: 'Color #454545ff'
     2100078: 'Color #37f266ff'
+    2100080: 19 - Default
+    2100082: 19 - Default2
     2300000: "150L\u6DB2\u5291\u6876_\u914D\u652A\u62CC\u99AC\u9054"
     2300002: "SC-150\u5167\u58C1"
     2300004: "SC-150\u5916\u58C1"
@@ -191,6 +197,8 @@ ModelImporter:
     2300082: Object002
     2300084: Object003
     2300086: "\u6C34\u7BA1"
+    2300088: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
+    2300090: "\u9032\u6C23\u7BA1"
     3300000: "150L\u6DB2\u5291\u6876_\u914D\u652A\u62CC\u99AC\u9054"
     3300002: "SC-150\u5167\u58C1"
     3300004: "SC-150\u5916\u58C1"
@@ -235,6 +243,8 @@ ModelImporter:
     3300082: Object002
     3300084: Object003
     3300086: "\u6C34\u7BA1"
+    3300088: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
+    3300090: "\u9032\u6C23\u7BA1"
     4300000: "\u63A8\u8ECA"
     4300002: "\u6392\u98A8\u7F69"
     4300004: "\u5674\u69CD"
@@ -279,6 +289,8 @@ ModelImporter:
     4300082: Line005
     4300084: "\u6C34\u7BA1"
     4300086: "150L\u6DB2\u5291\u6876_\u6876\u84CB"
+    4300088: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
+    4300090: "\u9032\u6C23\u7BA1"
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
