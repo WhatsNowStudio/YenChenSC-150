@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: OBJECTS_Oranges
+  m_Shader: {fileID: 4800000, guid: 218e4bf1017c48946ad5562e7d52051f, type: 3}
+  m_ShaderKeywords: _CUSTOM_LIGHTMAP _CUSTOM_LIGHTMAP2 _CUSTOM_LIGHTMAP3 _CUSTOM_LIGHTMAP4
+    _CUSTOM_LIGHTMAP5 _METALLICGLOSSMAP _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 5b4bb75d1c329df4f9880d3959bb2fb2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap:
+        m_Texture: {fileID: 2800000, guid: ddb83c85749bd4948a86adf5db867abd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap1:
+        m_Texture: {fileID: 2800000, guid: 64d4a81744ff3c3499db04d88be4b3b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap10:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap2:
+        m_Texture: {fileID: 2800000, guid: 8ef19ed1a6b695744915a273968e75dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap7:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap8:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7db50b1ac9a4da4488e4b2b52c027e31, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 8bc988f46e9e91f42a38cc8949921675, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ThicknessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Ambient: 5
+    - _BumpScale: 1
+    - _CullMode: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Distortion: 0.2
+    - _DstBlend: 0
+    - _GlossMapScale: 0.712
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _INMax: 1
+    - _INMiddle: 1
+    - _INMin: 0
+    - _LightmapGain: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OUTMax: 1
+    - _OUTMin: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Power: 8
+    - _Scale: 5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Spread: 0.5
+    - _SrcBlend: 1
+    - _Strength: 6
+    - _Thickness: 0.5
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _uvLmW: 0
+    - _uvLmX: 1
+    - _uvLmY: 1
+    - _uvLmZ: 0
+    m_Colors:
+    - _Color: {r: 0.83823526, g: 0.83823526, b: 0.83823526, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint: {r: 0.8602941, g: 0.8602941, b: 0.8602941, a: 1}
+    - _LightmapTint1: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint10: {r: 1, g: 1, b: 1, a: 1}
+    - _LightmapTint2: {r: 1.323, g: 1.1595706, b: 0.9144264, a: 1}
+    - _LightmapTint3: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint4: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint5: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint6: {r: 1, g: 1, b: 1, a: 1}
+    - _LightmapTint7: {r: 1, g: 1, b: 1, a: 1}
+    - _LightmapTint8: {r: 1, g: 1, b: 1, a: 1}
+    - _LightmapTint9: {r: 1, g: 1, b: 1, a: 1}
+    - _TranslucencyColor: {r: 1, g: 1, b: 1, a: 1}

@@ -7,19 +7,38 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: "\u73BB\u7483_\u9AD8\u53CD_\u900F\u660E"
-  m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _SPECULARHIGHLIGHTS_OFF
+  m_Shader: {fileID: 4800000, guid: 68967bc2dc8fdab44992074d27638413, type: 3}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _REFRACTION
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
-  stringTagMap:
-    RenderType: Transparent
+  stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CustomLightmap5:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -59,24 +78,54 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ThicknessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _AffectsColor: 1
+    - _AffectsRefraction: 1
     - _BumpScale: 1
+    - _CullMode: 2
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 10
+    - _FresnelAmount: 1
+    - _FresnelLength: 15
     - _GlossMapScale: 0.45
-    - _Glossiness: 1
+    - _Glossiness: 0.6
     - _GlossyReflections: 1
+    - _INMax: 1
+    - _INMaxCOLOR: 1
+    - _INMiddle: 1
+    - _INMiddleCOLOR: 1
+    - _INMin: 0
+    - _INMinCOLOR: 0
     - _Metallic: 0
     - _Mode: 3
+    - _OUTMax: 1
+    - _OUTMaxCOLOR: 1
+    - _OUTMin: 0
+    - _OUTMinCOLOR: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _RefractionAmount: -0.3
+    - _SizeBlur: 0
     - _SmoothnessTextureChannel: 0
-    - _SpecularHighlights: 0
+    - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 0
+    - _uvLmW: 0
+    - _uvLmX: 1
+    - _uvLmY: 1
+    - _uvLmZ: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 0.14117648}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.13333334}
     - _EmissionColor: {r: 0.49056602, g: 0.0813944, b: 0.016197944, a: 1}
-    - _SpecColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
+    - _LightmapTint: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint2: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint3: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint4: {r: 0, g: 0, b: 0, a: 1}
+    - _LightmapTint5: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.6792453, g: 0.6792453, b: 0.6792453, a: 1}
