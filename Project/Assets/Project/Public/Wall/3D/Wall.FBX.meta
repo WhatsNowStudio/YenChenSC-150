@@ -8,11 +8,13 @@ ModelImporter:
     100004: Tube_L2
     100006: Tube_R
     100008: Wall
+    100010: Tube
     400000: //RootNode
     400002: Tube_L1
     400004: Tube_L2
     400006: Tube_R
     400008: Wall
+    400010: Tube
     2100000: 'Material #83'
     2100002: 24 - Default
     2300000: //RootNode
@@ -20,15 +22,18 @@ ModelImporter:
     2300004: Tube_L2
     2300006: Tube_R
     2300008: Wall
+    2300010: Tube
     3300000: //RootNode
     3300002: Tube_L1
     3300004: Tube_L2
     3300006: Tube_R
     3300008: Wall
+    3300010: Tube
     4300000: Wall
     4300002: Tube_R
     4300004: Tube_L1
     4300006: Tube_L2
+    4300008: Tube
   externalObjects: {}
   materials:
     importMaterials: 1
