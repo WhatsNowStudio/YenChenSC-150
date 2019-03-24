@@ -10622,7 +10622,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1638011361726940, guid: 40970cdca05fad54689c4fba84a01606, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1046189441754714, guid: 40970cdca05fad54689c4fba84a01606, type: 2}
       propertyPath: m_IsActive
@@ -11974,7 +11974,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.07843137, g: 0.17005071, b: 1, a: 1}
+        key0: {r: 1, g: 0.2494924, b: 0, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0.6854671}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -16922,7 +16922,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.07843137, g: 0.17005071, b: 1, a: 1}
+        key0: {r: 1, g: 0.2494924, b: 0, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0.6854671}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -21971,7 +21971,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.07843137, g: 0.17005071, b: 1, a: 1}
+        key0: {r: 1, g: 0.2494924, b: 0, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0.6854671}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -26812,7 +26812,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.07843137, g: 0.17005071, b: 1, a: 1}
+        key0: {r: 1, g: 0.2494924, b: 0, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0.6854671}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -30482,7 +30482,7 @@ MonoBehaviour:
         networkSync: 0
         value: {fileID: 0}
       - useVariable: 1
-        name: Obj/All
+        name: Obj/Parent
         tooltip: 
         showInInspector: 1
         networkSync: 0
@@ -30493,6 +30493,12 @@ MonoBehaviour:
         showInInspector: 1
         networkSync: 0
         value: {fileID: 646222762}
+      - useVariable: 1
+        name: Obj/Spawn
+        tooltip: 
+        showInInspector: 1
+        networkSync: 0
+        value: {fileID: 1422923052}
       objectVariables: []
       materialVariables: []
       textureVariables: []
@@ -30500,7 +30506,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000
+      variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
@@ -30574,6 +30580,34 @@ Transform:
   m_Father: {fileID: 500267031}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -39.301003}
+--- !u!1 &1799498441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1799498442}
+  m_Layer: 0
+  m_Name: "24\u79D2"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1799498442
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1799498441}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.4404801, y: 1.303781, z: 0.2291904}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1858967849
 GameObject:
   m_ObjectHideFlags: 0
