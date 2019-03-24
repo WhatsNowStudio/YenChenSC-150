@@ -162,7 +162,7 @@ MonoBehaviour:
   ApplyMethod: 0
   SampleCount: 3
   PerPixelNormals: 2
-  Intensity: 1
+  Intensity: 0.5
   Tint: {r: 0, g: 0, b: 0, a: 1}
   Radius: 2
   PowerExponent: 1.5
