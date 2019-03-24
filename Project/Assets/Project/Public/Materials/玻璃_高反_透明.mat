@@ -91,7 +91,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 10
     - _FresnelAmount: 1
-    - _FresnelLength: 15
+    - _FresnelLength: 0.5
     - _GlossMapScale: 0.45
     - _Glossiness: 0.6
     - _GlossyReflections: 1
@@ -109,7 +109,7 @@ Material:
     - _OUTMinCOLOR: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RefractionAmount: -0.3
+    - _RefractionAmount: 0
     - _SizeBlur: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
