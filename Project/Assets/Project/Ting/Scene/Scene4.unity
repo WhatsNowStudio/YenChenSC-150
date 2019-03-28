@@ -361,9 +361,9 @@ GameObject:
   m_Component:
   - component: {fileID: 34149554}
   - component: {fileID: 34149555}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: "\u78B0\u649E"
-  m_TagString: Untagged
+  m_TagString: Collider
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11488,9 +11488,9 @@ GameObject:
   - component: {fileID: 646222764}
   - component: {fileID: 646222763}
   - component: {fileID: 646222768}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Capsule
-  m_TagString: Untagged
+  m_TagString: Collider
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28371,9 +28371,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1422923053}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: All
-  m_TagString: Collider
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
