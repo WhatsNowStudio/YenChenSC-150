@@ -1291,13 +1291,13 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 2000
+        value: 8000
       - useVariable: 1
         name: Int/JetOnce
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 10
+        value: 30
       boolVariables: []
       stringVariables: []
       vector2Variables: []
