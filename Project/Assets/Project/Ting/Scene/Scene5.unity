@@ -653,7 +653,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 1a6a6306d5fd10e49b06f1fefef39790, type: 2}
+  - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
   - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -1552,7 +1552,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2021009136
 Transform:
   m_ObjectHideFlags: 0
@@ -1592,14 +1592,14 @@ ReflectionProbe:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IntensityMultiplier: 1
+  m_IntensityMultiplier: 1.3
   m_BlendDistance: 1
   m_HDR: 1
   m_BoxProjection: 1
   m_RenderDynamicObjects: 0
   m_UseOcclusionCulling: 1
   m_Importance: 1
-  m_CustomBakedTexture: {fileID: 8900000, guid: 4151278011403f049a79eb1791306168,
+  m_CustomBakedTexture: {fileID: 8900000, guid: 02a0d2a5a1f35b349976db8efcdbf0a8,
     type: 3}
 --- !u!1 &2095388702
 GameObject:
