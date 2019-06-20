@@ -14,6 +14,8 @@ ModelImporter:
     100016: Inside_G
     100018: Shell_A
     100020: Shell_B
+    100022: Inside_H
+    100024: Inside_I
     400000: //RootNode
     400002: Frame
     400004: Inside_A
@@ -25,6 +27,8 @@ ModelImporter:
     400016: Inside_G
     400018: Shell_A
     400020: Shell_B
+    400022: Inside_H
+    400024: Inside_I
     2100000: 'Material #60'
     2300000: Frame
     2300002: Inside_A
@@ -36,6 +40,8 @@ ModelImporter:
     2300014: Inside_G
     2300016: Shell_A
     2300018: Shell_B
+    2300020: Inside_H
+    2300022: Inside_I
     3300000: Frame
     3300002: Inside_A
     3300004: Inside_B
@@ -46,6 +52,8 @@ ModelImporter:
     3300014: Inside_G
     3300016: Shell_A
     3300018: Shell_B
+    3300020: Inside_H
+    3300022: Inside_I
     4300000: Frame
     4300002: Shell_A
     4300004: Inside_D
@@ -56,6 +64,8 @@ ModelImporter:
     4300014: Inside_B
     4300016: Inside_A
     4300018: Shell_B
+    4300020: Inside_H
+    4300022: Inside_I
   externalObjects: {}
   materials:
     importMaterials: 1
