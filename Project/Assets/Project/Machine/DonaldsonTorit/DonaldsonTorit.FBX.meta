@@ -8,24 +8,29 @@ ModelImporter:
     100004: InSide_A
     100006: InSide_B
     100008: InSide_C
+    100010: "Object0\u96C6\u5875\u6876"
     400000: //RootNode
     400002: Frame
     400004: InSide_A
     400006: InSide_B
     400008: InSide_C
+    400010: "Object0\u96C6\u5875\u6876"
     2100000: 'Material #1406'
     2300000: Frame
     2300002: InSide_A
     2300004: InSide_B
     2300006: InSide_C
+    2300008: "Object0\u96C6\u5875\u6876"
     3300000: Frame
     3300002: InSide_A
     3300004: InSide_B
     3300006: InSide_C
+    3300008: "Object0\u96C6\u5875\u6876"
     4300000: Frame
     4300002: InSide_C
     4300004: InSide_A
     4300006: InSide_B
+    4300008: "Object0\u96C6\u5875\u6876"
   externalObjects: {}
   materials:
     importMaterials: 1
