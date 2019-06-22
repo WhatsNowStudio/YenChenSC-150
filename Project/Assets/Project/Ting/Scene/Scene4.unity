@@ -684,7 +684,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 141025684}
   m_LocalRotation: {x: -0.9741688, y: -0, z: -0, w: 0.22582115}
-  m_LocalPosition: {x: 0.735, y: 6.6637692, z: 2.751}
+  m_LocalPosition: {x: 0.735, y: 6.6637692, z: 2.872}
   m_LocalScale: {x: 2.825, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2006485637}
@@ -1226,8 +1226,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.2
-      minScalar: 0.08
+      scalar: 0.4
+      minScalar: 0.2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -10831,8 +10831,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.2
-      minScalar: 0.08
+      scalar: 0.4
+      minScalar: 0.2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -15659,8 +15659,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.2
-      minScalar: 0.08
+      scalar: 0.4
+      minScalar: 0.2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -31333,7 +31333,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 725045306}
   m_LocalRotation: {x: -0.8424402, y: -0, z: -0, w: 0.53879}
-  m_LocalPosition: {x: 0.735, y: 6.6482563, z: 1.283}
+  m_LocalPosition: {x: 0.735, y: 6.6482563, z: 1.15}
   m_LocalScale: {x: 2.825, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2006485637}
@@ -36692,8 +36692,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.2
-      minScalar: 0.08
+      scalar: 0.4
+      minScalar: 0.2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -52193,8 +52193,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.2
-      minScalar: 0.08
+      scalar: 0.4
+      minScalar: 0.2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -69860,8 +69860,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.2
-      minScalar: 0.08
+      scalar: 0.4
+      minScalar: 0.2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -81336,7 +81336,7 @@ Prefab:
     - target: {fileID: 224920331630603682, guid: 788a038592e8a4a42a96636748212dcc,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 150
+      value: 260
       objectReference: {fileID: 0}
     - target: {fileID: 224920331630603682, guid: 788a038592e8a4a42a96636748212dcc,
         type: 2}
@@ -81386,7 +81386,7 @@ Prefab:
     - target: {fileID: 114058953565882456, guid: 788a038592e8a4a42a96636748212dcc,
         type: 2}
       propertyPath: m_Text
-      value: "\u5875\u57C3"
+      value: "\u8108\u885D\u96C6\u5875"
       objectReference: {fileID: 0}
     - target: {fileID: 1335328271416326, guid: 788a038592e8a4a42a96636748212dcc, type: 2}
       propertyPath: m_IsActive
